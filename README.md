@@ -2,7 +2,7 @@
 <p align="center">🚀 Builder of Mind-Bending Tech | 🤖 Robotics, AI, Hacking | 🧠 Conscious Devices</p>
 
 ---
-### 🔥 About Me
+## 🔥 About Me
 Hey, I'm **Kavin**, a high-school innovator turning wild tech ideas into real machines.  
 I build everything from **AI stock predictors** to **swarm intelligence bots**, and now working on a **conscious smart device** with its own **Linux distro**.  
 I don't just code — I **design, wire, print, simulate, and test** everything till it's perfect.
