@@ -1,5 +1,5 @@
 # k4vin
-<h1 align="center">⚡ Aryan Sharma</h1>
+<h1 align="center">⚡ Kavin Jain</h1>
 <p align="center">🚀 Builder of Mind-Bending Tech | 🤖 Robotics, AI, Hacking | 🧠 Conscious Devices</p>
 
 ---
@@ -77,7 +77,7 @@ I don’t just code — I **design, wire, print, simulate, and test** everything
 
 ### 📬 Reach Out
 
-- GitHub: [@aryan-op](https://github.com/aryan-op)
+- GitHub: [kavinjainn](https://github.com/kavinjainn)
 - Building something wild? DM me. Let’s collaborate.
 
 ---
